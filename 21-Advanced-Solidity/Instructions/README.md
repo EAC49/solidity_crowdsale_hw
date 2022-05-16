@@ -1,5 +1,3 @@
-# solidity_crowdsale_hw
-
 # Unit 21: Martian Token Crowdsale
 
 ![alt=""](Images/application-image.png)
